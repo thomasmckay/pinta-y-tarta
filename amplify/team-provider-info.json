@@ -10,6 +10,11 @@
       "StackName": "amplify-pintaytarta-staging-134831",
       "StackId": "arn:aws:cloudformation:us-east-1:422042825724:stack/amplify-pintaytarta-staging-134831/90dc8170-c0b0-11ec-a26a-0a6e6428d797",
       "AmplifyAppId": "d557kdm38pd9y"
+    },
+    "categories": {
+      "auth": {
+        "pintaytarta": {}
+      }
     }
   }
 }
