@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pinta-y-tarta/static/css/main.413460e5.css",
+    "main.js": "/pinta-y-tarta/static/js/main.4103f7eb.js",
+    "static/js/787.45b25b7b.chunk.js": "/pinta-y-tarta/static/js/787.45b25b7b.chunk.js",
+    "index.html": "/pinta-y-tarta/index.html",
+    "main.413460e5.css.map": "/pinta-y-tarta/static/css/main.413460e5.css.map",
+    "main.4103f7eb.js.map": "/pinta-y-tarta/static/js/main.4103f7eb.js.map",
+    "787.45b25b7b.chunk.js.map": "/pinta-y-tarta/static/js/787.45b25b7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.413460e5.css",
+    "static/js/main.4103f7eb.js"
+  ]
+}
